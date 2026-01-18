@@ -120,27 +120,6 @@ const developer = {
 
 ---
 
-# 📊 GitHub Stats:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/irfan-ansari303/irfan-ansari303/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/irfan-ansari303/irfan-ansari303/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=cyberboyayush&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&theme=highcontrast&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberboyayush&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
 
 # 📈 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/irfan1230?ext=heatmap)
