@@ -65,14 +65,28 @@ const developer = {
 
 💬 **Ask Me About:** JavaScript, React, Next.js, or Full-Stack Development
 
-📫 **Reach Me:** [LinkedIn: @irfanansari8318]([https://twitter.com/CyberBoyAyush](https://www.linkedin.com/in/irfanansari8318/)) 
+📫 **Reach Me:** [LinkedIn: @irfanansari8318]([https://twitter.com/irfanansari8318](https://www.linkedin.com/in/irfanansari8318/)) 
 
 ---
 
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_r_f_a_9) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/irfanansari8318/) 
+
+<div >
+
+<a href="https://portfolio-1-lu6p.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/i_r_f_a_9">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/irfanansari8318/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
