@@ -68,10 +68,9 @@ const developer = {
 
 
 ## 🌐 Connect With Me:
-
 <div >
 
-<a href="https://portfolio-1-lu6p.onrender.com/">
+<a href="https://irfanxdev.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
@@ -79,7 +78,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/irfanansari8318/">
+<a href="https://www.linkedin.com/in/irfanxdev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -117,7 +116,7 @@ const developer = {
 
 
 # 📈 LeetCode Stats
-![](https://leetcard.jacoblin.cool/irfan1230?ext=heatmap)
+![](https://leetcard.jacoblin.cool/irfanxdev?ext=heatmap)
 
 <!--
 ### 🏅 Competitive Programming
@@ -136,11 +135,11 @@ const developer = {
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/irfan-ansari303/irfan-ansari303/blob/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://github.com/irfanxdev/irfanxdev/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://github.com/irfan-ansari303/irfan-ansari303/blob/output/github-contribution-grid-snake.svg">
+          srcset="https://github.com/irfanxdev/irfanxdev/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" 
-       src="https://github.com/irfan-ansari303/irfan-ansari303/blob/output/github-contribution-grid-snake.svg">
+       src="https://github.com/irfanxdev/irfanxdev/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 
